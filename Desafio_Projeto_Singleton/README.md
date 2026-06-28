@@ -53,7 +53,7 @@ Responsável pelo desenho do menu interativo na consola e capturar as intençõe
 
 ---
 
-## 🖥️ Demonstração do Menu na Consola
+## 🖥️ Demonstração do Menu na Console
 
 Ao iniciar o programa, o utilizador depara-se com a seguinte interface textual:
 
