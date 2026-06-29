@@ -9,6 +9,7 @@ Bem-vindo ao meu repositório de projetos desenvolvidos em **Java**! Este espaç
 O repositório está dividido em subpastas, onde cada uma representa um projeto isolado:
 
 * `📌 01- Desafio_Projeto_Singleton/` - Implementação prática dos principais padrões de projeto (Singleton).
+* `📌 02- Desafio_Projeto_Spring_IA/` - Implementação prática do SpringBoot com IA Gemini.
 
 ---
 
